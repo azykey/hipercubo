@@ -1,3 +1,8 @@
+
+![photo_2025-04-25_20-45-29](https://github.com/user-attachments/assets/ae05caf8-691c-44dc-b7d3-0d1c9765f758)
+
+
+
 # HiperCubo AGI 🧠🔮
 
 ## Propriedade Intelectual
@@ -81,7 +86,7 @@ Contribuições são bem-vindas! Por favor, entre em contato com o autor antes d
 ## Licença
 
 Todos os direitos reservados.  
-Copyright © 2024 Adilson Oliveira
+Copyright © 2025 Adilson Oliveira
 
 ---
 
